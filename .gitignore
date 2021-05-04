@@ -1,3 +1,4 @@
 node_modules
 .vscode
 mock_hooks/prepare-commit-msg
+.DS_Store
