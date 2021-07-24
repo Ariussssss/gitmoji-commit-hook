@@ -1,6 +1,6 @@
 {
   "name": "@zerrrrrr/gitmoji-commit-hook",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "Start the commit message with an right emoji",
   "main": "bin/index.js",
   "scripts": {

@@ -14,7 +14,7 @@ const prepareCommitMsgFileName = "prepare-commit-msg";
 
 const gitmojiCommitHookComand = `#!/bin/sh
 exec < /dev/tty
-gitmoji-commit-hook $1
+npx gitmoji-commit-hook $1
 `;
 
 const errorMessage = {
